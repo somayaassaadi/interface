@@ -11,6 +11,7 @@ View all components [here](https://bit.cloud/logora/debate/)
 ```bash
 npm i -g @teambit/bvm
 bvm install
+yarn install
 ```
 
 ## Run
